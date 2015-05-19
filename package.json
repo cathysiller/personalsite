@@ -1,0 +1,14 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "cathys website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cathy Siller",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
